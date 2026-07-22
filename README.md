@@ -6,7 +6,7 @@ Site institucional do Programa de Iniciação Científica, Tecnológica e de Ino
 
 Página de divulgação do edital PICTI 2026, com informações sobre as 53 vagas de iniciação científica oferecidas pelo INMA em Santa Teresa (ES), incluindo bolsas financiadas pela FAPES, as 5 áreas de pesquisa contempladas e o acesso ao edital completo.
 
-**Inscrições abertas até 07/08.**
+**Inscrições abertas até 07/08/2026.**
 
 🔗 Acesse: https://picti.inma.gov.br/
 
